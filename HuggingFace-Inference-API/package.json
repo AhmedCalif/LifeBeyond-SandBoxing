@@ -1,0 +1,12 @@
+{
+  "name": "huggingface-inference-api",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
